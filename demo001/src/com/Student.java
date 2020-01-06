@@ -4,6 +4,15 @@ public class Student {
     private String name;
     private String className;
     private String studentId;
+    private String age;
+
+    public String getAge() {
+        return age;
+    }
+
+    public void setAge(String age) {
+        this.age = age;
+    }
 
     public String getName() {
         return name;
