@@ -3,6 +3,15 @@ package com;
 public class Code {
    private String codeId;
    private String name;
+   private String codeA;
+
+    public String getCodeA() {
+        return codeA;
+    }
+
+    public void setCodeA(String codeA) {
+        this.codeA = codeA;
+    }
 
     public String getCodeId() {
         return codeId;
