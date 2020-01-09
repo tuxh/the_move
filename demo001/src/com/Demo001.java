@@ -8,6 +8,7 @@ public class Demo001 {
         LocalDate localDate = LocalDate.parse("2019-01-01", DateTimeFormatter.ofPattern("yyyy-MM-dd"));
         System.out.println(localDate);
         System.out.println("version_01");
+        System.out.println("version_02");
     }
 
 }
