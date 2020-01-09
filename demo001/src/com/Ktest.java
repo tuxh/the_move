@@ -1,5 +1,7 @@
 package com;
 
+import sun.util.resources.LocaleData;
+
 public class Ktest {
     private  String name;
 
@@ -9,5 +11,9 @@ public class Ktest {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
