@@ -9,7 +9,8 @@ public class Demo001 {
         System.out.println(localDate);
         System.out.println("version_01");
         System.out.println("version_02");
-        System.out.println("change");
+        System.out.println("version_03");
+        System.out.println("success");
     }
 
 }
